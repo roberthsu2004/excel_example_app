@@ -1,0 +1,6 @@
+{
+  "name": "通用型 Excel 佔位符單據產生器",
+  "description": "純前端 Excel 自動化模板引擎，動態解析 {{變數名稱 | 預設值}} 佔位符，保留圖片、公式與格式並一鍵匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
